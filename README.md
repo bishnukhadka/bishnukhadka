@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Bishnu Khadka. 
+
+🔭 I’m currently working on Tabular Deep Learning — exploring how (or if) deep neural networks can outperform traditional models on tabular data.
+
+I read this a while ago and it stuck with me: *“If you love your work, the work will love you back.”* I’m not sure if it’s always true, I’m not sure if that’s always true — but I’m here to find out.
+
 
 <!--
 **bishnukhadka/bishnukhadka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
