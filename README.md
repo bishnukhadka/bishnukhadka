@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Tabular Deep Learning — exploring how (or if) deep neural networks can outperform traditional models on tabular data.
 
-🔍 I read this a while ago and it stuck with me: *“If you love your work, the work will love you back.”*  I’m not sure if that’s always true, but I’m here to find out.
+🔍 I read this a while ago and it stuck with me: *“If you love your work, the work will love you back.”*  So let's work. 
 
 📝 I write articles on [https://medium.com/@bishnukhadka0](https://medium.com/@bishnukhadka0) and on my [blog](https://bishnukhadka.github.io/year-archive/).
 
