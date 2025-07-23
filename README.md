@@ -8,7 +8,9 @@
 
 👉 Self-promo? This way → [bishnukhadka.github.io](https://bishnukhadka.github.io)
 
+### Publications
 
+- [Leveraging UAV Data and Deep Learning Models for Detecting Waste in Rivers](https://github.com/bishnukhadka/Leveraging-UAV-Data-and-Deep-learning-Models-for-Detecting-Waste-in-Rivers)
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- <p align="left">
