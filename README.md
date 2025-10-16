@@ -10,8 +10,8 @@
 
 ### Publications
 
-- [Leveraging UAV Data and Deep Learning Models for Detecting Waste in Rivers](https://github.com/bishnukhadka/Leveraging-UAV-Data-and-Deep-learning-Models-for-Detecting-Waste-in-Rivers)
-- [Unveiling Waste and its Ripple Effect: Analyzing the Impact of Waste of Water Resources Quality](https://nce.edu.np/wp-content/uploads/2025/07/NCE-Journal-inner-2082-for-mail-2-1.pdf)
+1. [Leveraging UAV Data and Deep Learning Models for Detecting Waste in Rivers](https://github.com/bishnukhadka/Leveraging-UAV-Data-and-Deep-learning-Models-for-Detecting-Waste-in-Rivers)
+2. [Unveiling Waste and its Ripple Effect: Analyzing the Impact of Waste of Water Resources Quality](https://nce.edu.np/wp-content/uploads/2025/07/NCE-Journal-inner-2082-for-mail-2-1.pdf)
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- <p align="left">
