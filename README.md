@@ -2,16 +2,15 @@
 
 🔭 I’m currently working on Tabular Deep Learning — exploring how (or if) deep neural networks can outperform traditional models on tabular data.
 
-🔍 I read this a while ago and it stuck with me: *“If you love your work, the work will love you back.”*  So let's work. 
-
 📝 I write articles on [https://medium.com/@bishnukhadka0](https://medium.com/@bishnukhadka0) and on my [blog](https://bishnukhadka.github.io/year-archive/).
 
 👉 Self-promo? This way → [bishnukhadka.github.io](https://bishnukhadka.github.io)
 
 ### Publications
 
-1. [Leveraging UAV Data and Deep Learning Models for Detecting Waste in Rivers](https://github.com/bishnukhadka/Leveraging-UAV-Data-and-Deep-learning-Models-for-Detecting-Waste-in-Rivers)
-2. [Unveiling Waste and its Ripple Effect: Analyzing the Impact of Waste of Water Resources Quality](https://nce.edu.np/wp-content/uploads/2025/07/NCE-Journal-inner-2082-for-mail-2-1.pdf)
+1. [Gptopic: Dynamic and interactive topic representations](https://arxiv.org/abs/2403.03628)
+2. [Leveraging UAV Data and Deep Learning Models for Detecting Waste in Rivers](https://github.com/bishnukhadka/Leveraging-UAV-Data-and-Deep-learning-Models-for-Detecting-Waste-in-Rivers)
+3. [Unveiling Waste and its Ripple Effect: Analyzing the Impact of Waste of Water Resources Quality](https://nce.edu.np/wp-content/uploads/2025/07/NCE-Journal-inner-2082-for-mail-2-1.pdf)
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- <p align="left">
