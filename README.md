@@ -13,7 +13,7 @@
 
 ### Publications
 
-1. [Gptopic: Dynamic and interactive topic representations](https://arxiv.org/abs/2403.03628)
+1. [GPTopic: Dynamic and interactive topic representations](https://arxiv.org/abs/2403.03628)
 2. [Leveraging UAV Data and Deep Learning Models for Detecting Waste in Rivers](https://github.com/bishnukhadka/Leveraging-UAV-Data-and-Deep-learning-Models-for-Detecting-Waste-in-Rivers)
 3. [Unveiling Waste and its Ripple Effect: Analyzing the Impact of Waste of Water Resources Quality](https://nce.edu.np/wp-content/uploads/2025/07/NCE-Journal-inner-2082-for-mail-2-1.pdf)
 
