@@ -2,9 +2,14 @@
 
 🔭 I’m currently working on Tabular Deep Learning — exploring how (or if) deep neural networks can outperform traditional models on tabular data.
 
-📝 I write articles on [https://medium.com/@bishnukhadka0](https://medium.com/@bishnukhadka0) and on my [blog](https://bishnukhadka.github.io/year-archive/).
+🎓 My Google Scholar Account → <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="14"/>[Here](https://scholar.google.com/citations?user=RN5PE5EAAAAJ&hl=en&oi=ao)
 
 👉 Self-promo? This way → [bishnukhadka.github.io](https://bishnukhadka.github.io)
+
+📝 I write articles on [https://medium.com/@bishnukhadka0](https://medium.com/@bishnukhadka0) and on my [blog](https://bishnukhadka.github.io/year-archive/).
+
+
+
 
 ### Publications
 
@@ -47,9 +52,9 @@
 
 
 
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnukhadka&" alt="bishnukhadka" /></p>
-
+-->
 
 <!--
 **bishnukhadka/bishnukhadka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
